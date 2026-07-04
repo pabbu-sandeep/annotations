@@ -8,3 +8,5 @@ def fun():
     return fun3()
 fun()
 print(x)
+
+
